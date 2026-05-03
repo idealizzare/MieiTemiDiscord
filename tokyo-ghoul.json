@@ -1,6 +1,6 @@
 {
   "name": "Tokyo Ghoul",
-  "description": "Tokyo Ghoul theme for Discord.",
+  "description": "Tokyo Ghoul theme",
   "authors": [
     {
       "name": "delirio",
@@ -78,43 +78,43 @@
       "#000000"
     ],
     "STATUS_WARNING": [
-      "#FFFFFF"
+      "#A64D79"
     ],
     "STATUS_WARNING_BACKGROUND": [
       "#000000"
     ],
     "STATUS_WARNING_TEXT": [
-      "#FFFFFF"
+      "#A64D79"
     ],
     "TEXT_BRAND": [
-      "#FFFFFF"
+      "#A64D79"
     ],
     "TEXT_DANGER": [
-      "#FFFFFF"
+      "#A64D79"
     ],
     "TEXT_LINK": [
       "#A64D79"
     ],
     "TEXT_LINK_LOW_SATURATION": [
-      "#6d82ff"
+      "#A64D79"
     ],
     "TEXT_LOW_CONTRAST": [
-      "#FFFFFF"
+      "#A64D79"
     ],
     "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#7f7f7f"
+      "#A64D79"
     ],
     "TEXT_MUTED_ON_DEFAULT": [
-      "#FFFFFF"
+      "#A64D79"
     ],
     "TEXT_NORMAL": [
       "#A64D79"
     ],
     "TEXT_POSITIVE": [
-      "#FFFFFF"
+      "#A64D79"
     ],
     "TEXT_PRIMARY": [
       "#A64D79"
@@ -123,7 +123,7 @@
       "#A64D79"
     ],
     "TEXT_WARNING": [
-      "#FFFFFF"
+      "#A64D79"
     ],
     "THEME_LOCKED_BLUR_FALLBACK": [
       "#000000"
@@ -248,8 +248,8 @@
   },
   "background": {
     "url": "https://i.pinimg.com/736x/a4/fe/15/a4fe158ff8e68e63aef8ea1c438c710f.jpg",
-    "blur": 0.5,
-    "alpha": 0.25,
+    "blur": 0.4,
+    "alpha": 0.24,
     "size": "cover",
     "position": "top"
   },
