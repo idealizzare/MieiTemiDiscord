@@ -248,7 +248,7 @@
   },
   "background": {
     "url": "https://i.pinimg.com/736x/a4/fe/15/a4fe158ff8e68e63aef8ea1c438c710f.jpg",
-    "blur": 0.3,
+    "blur": 0.6,
     "alpha": 0.25,
     "size": "cover",
     "position": "top"
